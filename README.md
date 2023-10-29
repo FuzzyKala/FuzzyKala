@@ -1,29 +1,30 @@
-# Hi there 👋
+## Hi there 👋
 
-My name is Sam, I was born and raised in Taiwan, I'm an OAMK student right now.<br>
+My name is Sam, I was born and raised in Taiwan, and I've studied at Oulu Universiity of Applied Science(OAMK) since 2023 autumn.<br>
 
 ## Before 2023
 
-I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
+I'd been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
 
-Tools I used before:
+Tools and skills I used before:
 
 <pre>
 - AutoCAD                                                  -> Hardware drawing layout.
 - Cause & Effect Matrix                                    -> Reference of Engineering control logic
 - PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
 - DCS (Distributed Control System) programming software    -> Programming tools based on IEC 61131-3
-- HMI (Human Interface) Design tools                       -> Programming tools based on JavaScript and VBScript
+- HMI (Human Interface) Design                             -> Programming tools based on JavaScript and VBScript
 - Microsoft Office                                         -> For Specificaton and project planning
 </pre>
 
 ---
 
-In 2022, I applied the Finland joint application, then I'm currently studying Information Technology at Oulu Universiity of Applied Science(OAMK) in Finland.
+In 2022, I realized that I'd like to change my career to be a software programer, so I applied the Finland joint application.
+Now, here I am 😄.
 
 Tools I'm learning right now:<br>
 
-![Top Langs](https://github-readme-stats-six-iota-62.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
+![Top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 
 <!--
 
