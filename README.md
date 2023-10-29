@@ -19,7 +19,7 @@ Tools and skills I used before:
 
 ## After 2023
 
-In 2022, I realized that I'd like to change my career to be a software programer, so I applied the Finland joint application.<br>
+In 2022, I realized that I'd like to change my career to be a software programer, so I applied for the joint application in Finland.<br>
 Now, here I am 😄.
 
 Here's some info. about me:<br>
