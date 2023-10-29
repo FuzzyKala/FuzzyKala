@@ -20,7 +20,7 @@ In 2022, I applied the Finland joint application, then I'm currently studying In
 
 Tools I'm learning right now:<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzykala&show_icons=true&locale=en&layout=compact" alt="fuzzykala" /></p>
+<p><img align="center" src="https://github-readme-stats-pi-eosin.vercel.app/api/top-langs?username=fuzzykala&show_icons=true&locale=en&layout=compact" alt="fuzzykala" /></p>
 
 <!--
 
