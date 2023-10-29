@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is Sam, I was born and raised in Taiwan, I'm an OAMK student right now.<br>
 
