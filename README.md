@@ -3,8 +3,6 @@
 My name is Sam, I was born and raised in Taiwan.
 I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
 
----
-
 Tools I used before:
 
 <pre>
@@ -20,13 +18,10 @@ Tools I used before:
 
 In 2022, I applied the Finland joint application, then I'm currently studying Information Technology at Oulu Universiity of Applied Science(OAMK) in Finland.
 
----
-
 Tools I'm learning right now:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FuzzyKala)
+![Top Langs](https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=FuzzyKala)
 
----
-
+<!-- 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 -->
 <!--
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuzzyKala&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
