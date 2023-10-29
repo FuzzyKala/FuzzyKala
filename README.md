@@ -24,10 +24,11 @@ Now, here I am 😄.
 
 Tools I'm learning right now:<br>
 
-![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi&)
-<br>
 ![Top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 <br>
+![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi&)
+<br>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
