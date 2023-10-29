@@ -8,12 +8,12 @@ I had been working in Taiwan and China as an Elecrtical Engineer for more than 8
 Tools I used before:
 
 <pre>
-- AutoCAD                                           -> Hardware drawing layout.
-- Cause & Effect Matrix -> Reference of Engineering control logic
+- AutoCAD                                                  -> Hardware drawing layout.
+- Cause & Effect Matrix                                    -> Reference of Engineering control logic
 - PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
-- DCS (Distributed Control System) programming software -> Programming tools based on IEC 61131-3
-- HMI (Human Interface) Design tools -> Programming tools based on JavaScript and VBScript
-- Microsoft Office -> For Specificaton and project planning
+- DCS (Distributed Control System) programming software    -> Programming tools based on IEC 61131-3
+- HMI (Human Interface) Design tools                       -> Programming tools based on JavaScript and VBScript
+- Microsoft Office                                         -> For Specificaton and project planning
 </pre>
 
 ---
