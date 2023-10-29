@@ -23,7 +23,7 @@ In 2022, I applied the Finland joint application, then I'm currently studying In
 
 Tools I'm learning right now:<br>
 
-![Top Langs](https://github-readme-stats-six-iota-62.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-six-iota-62.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 
 <!--
 
