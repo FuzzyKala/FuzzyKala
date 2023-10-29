@@ -22,7 +22,7 @@ Tools and skills I used before:
 In 2022, I realized that I'd like to change my career to be a software programer, so I applied the Finland joint application.<br>
 Now, here I am 😄.
 
-Tools I'm learning right now:<br>
+Here's some info. about me:<br>
 
 ![Top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 <br>
