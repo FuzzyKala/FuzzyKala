@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sam, I was born and raised in Taiwan.
+My name is Sam, I was born and raised in Taiwan.<br>
 I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
 
 Tools I used before:
