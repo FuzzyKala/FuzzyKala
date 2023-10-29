@@ -28,7 +28,7 @@ Here's some info. about me:<br>
 <br>
 ![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
 <br>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)(https://github.com/anuraghazra/github-readme-stats)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)
 
 <!--
 
