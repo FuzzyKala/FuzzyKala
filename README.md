@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-My name is Sam, I was born and raised in Taiwan, and I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
+My name is Sam, I was born and raised in Taiwan.
+I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
 
 ---
 
 Tools I used before:
 
 <pre>
-- AutoCAD -> Hardware drawing layout.
+- AutoCAD                                           -> Hardware drawing layout.
 - Cause & Effect Matrix -> Reference of Engineering control logic
 - PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
 - DCS (Distributed Control System) programming software -> Programming tools based on IEC 61131-3
