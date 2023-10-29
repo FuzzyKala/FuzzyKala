@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Sam, I was born and raised in Taiwan.<br>
+My name is Sam, I was born and raised in Taiwan, I'm an OAMK student right now.<br>
+
+## Before 2023
+
 I had been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
 
 Tools I used before:
@@ -20,7 +23,7 @@ In 2022, I applied the Finland joint application, then I'm currently studying In
 
 Tools I'm learning right now:<br>
 
-![Top Langs](https://github-readme-stats-six-iota-62.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats-six-iota-62.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=tokyonight)
 
 <!--
 
