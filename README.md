@@ -19,7 +19,8 @@ Tools I used before:
 In 2022, I applied the Finland joint application, then I'm currently studying Information Technology at Oulu Universiity of Applied Science(OAMK) in Finland.
 
 Tools I'm learning right now:<br>
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FuzzyKala)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuzzykala&show_icons=true&locale=en&layout=compact" alt="fuzzykala" /></p>
 
 <!--
 
