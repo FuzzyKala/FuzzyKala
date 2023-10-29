@@ -6,12 +6,14 @@ My name is Sam, I was born and raised in Taiwan, and I had been working in Taiwa
 
 Tools I used before:
 
+<pre>
 - AutoCAD -> Hardware drawing layout.
 - Cause & Effect Matrix -> Reference of Engineering control logic
 - PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
 - DCS (Distributed Control System) programming software -> Programming tools based on IEC 61131-3
 - HMI (Human Interface) Design tools -> Programming tools based on JavaScript and VBScript
 - Microsoft Office -> For Specificaton and project planning
+</pre>
 
 ---
 
