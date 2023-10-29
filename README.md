@@ -21,7 +21,7 @@ In 2022, I applied the Finland joint application, then I'm currently studying In
 Tools I'm learning right now:
 ![Top Langs](https://github-readme-stats-pi-eosin.vercel.app/api/top-langs/?username=FuzzyKala)
 
-<!-- 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 -->
+<!-- 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 -->
 <!--
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuzzyKala&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
