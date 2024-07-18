@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-My name is Sam, I was born and raised in Taiwan, and I've studied at Oulu Universiity of Applied Science(OAMK) since 2023 autumn.<br>
+My name is Sam, I was born and raised in Taiwan, and I've studied at Oulu University of Applied Science(OAMK) since 2023 autumn.<br>
 
 ## Before 2023
 
-I'd been working in Taiwan and China as an Elecrtical Engineer for more than 8 years.
+I've worked in Taiwan and China as an Electrical Engineer for over 8 years.
 
 Tools and skills I used before:
 
@@ -14,21 +14,21 @@ Tools and skills I used before:
 - PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
 - DCS (Distributed Control System) programming software    -> Programming tools based on IEC 61131-3
 - HMI (Human Interface) Design                             -> Programming tools based on JavaScript and VBScript
-- Microsoft Office                                         -> For Specificaton and project planning
+- Microsoft Office                                         -> For Specification and project planning
 </pre>
 
 ## After 2023
 
-In 2022, I realized that I'd like to change my career to be a software programer, so I applied for the joint application in Finland.<br>
+In 2022, I realized I'd like to change my career to be a software programmer, so I applied for the joint application in Finland.<br>
 Now, here I am 😄.
 
-Here's some skills and tools I have been using: <br>
+Here are some skills and tools I have been using: <br>
 
 ![Top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 <br>
 ![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
 <br>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzzyKala&layout=compact&theme=holi)
 
 <!--
 
