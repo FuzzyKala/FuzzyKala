@@ -28,7 +28,7 @@ Here are some skills and tools I have been using: <br>
 <br>
 ![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
 <br>
-![Sam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzzyKala&layout=compact&theme=holi)
+![Sam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)
 
 <!--
 
