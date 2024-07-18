@@ -24,11 +24,11 @@ Now, here I am 😄.
 
 Here are some skills and tools I have been using: <br>
 
-![Top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
+![My top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 <br>
 ![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
 <br>
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzzyKala&layout=compact&theme=holi)
+![Sam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fuzzyKala&layout=compact&theme=holi)
 
 <!--
 
