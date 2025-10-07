@@ -1,49 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-My name is Sam, I was born and raised in Taiwan, and I've studied at Oulu University of Applied Science(OAMK) since 2023 autumn.<br>
+# Hi, I'm Sam 👋
 
-## Before 2023
+**Electrical Engineer → Software Developer | 🇹🇼 Taiwan → 🇫🇮 Finland**
 
-I've worked in Taiwan and China as an Electrical Engineer for over 8 years.
+</div>
 
-Tools and skills I used before:
+---
 
-<pre>
-- AutoCAD                                                  -> Hardware drawing layout.
-- Cause & Effect Matrix                                    -> Reference of Engineering control logic
-- PLC (Programmable Logic Controller) programming software -> Programming tools based on IEC 61131-3
-- DCS (Distributed Control System) programming software    -> Programming tools based on IEC 61131-3
-- HMI (Human Interface) Design                             -> Programming tools based on JavaScript and VBScript
-- Microsoft Office                                         -> For Specification and project planning
-</pre>
+## About
 
-## After 2023
+I'm an Electrical Engineer transitioning to Software Development, currently studying at Oulu University of Applied Sciences (OAMK) in Finland since 2023. With 8+ years as an on-site service engineer across Asia, America, and Europe, I bring strong problem-solving skills and a commitment to delivering technical solutions under deadlines.
 
-In 2022, I realized I'd like to change my career to be a software programmer, so I applied for the joint application in Finland.<br>
-Now, here I am 😄.
+## Background
 
-Here are some skills and tools I have been using: <br>
+**Engineering Career (2015-2023)**
+Worked as an on-site service engineer specializing in industrial control systems. Managed projects internationally, collaborating with customers across continents in multicultural environments. Key skills included AutoCAD, PLC/DCS programming (IEC 61131-3), and HMI design.
 
-![My top Langs](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
-<br>
-![Sam's GitHub stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
-<br>
-![Sam's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FuzzyKala&layout=compact&theme=holi)
+**Software Development Journey (2023-Present)**
+Made the leap to software development to pursue my passion for creating modern applications. Now building full-stack web and mobile projects, applying my engineering mindset to code.
 
-<!--
+**Beyond Coding**
+When I'm not programming, you'll find me at the gym 4x/week, watching anime, or working at a sushi restaurant 🍣.
 
-[![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuzzyKala&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
-**FuzzyKala/FuzzyKala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages:**
 
-Here are some ideas to get you started:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Tools:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FuzzyKala&theme=holi&hide_border=false&background=FFFFFF00)](https://git.io/streak-stats)
+
+![Sam's GitHub Stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi)
+
+![Top Languages](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sam-chou-b487b098/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tangerinekey381@gmail.com)
+
+</div>
