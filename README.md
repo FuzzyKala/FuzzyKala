@@ -3,6 +3,7 @@
 # Hi, I'm Sam 👋
 
 **Product-Minded Full-Stack Developer | 🇹🇼 Taiwan → 🇫🇮 Finland**
+
 _Building modern web applications with AI-augmented development_
 
 </div>
@@ -88,7 +89,7 @@ When I'm not programming, you'll find me at the gym 4x/week, watching anime, or 
 
 <div align="center">
 
-_Open to full-stack development opportunities | Available for remote work EU-wide | Graduating April
+_Open to full-stack development opportunities | Available for remote work worldwide | Graduating April
 2026_
 
 </div>
