@@ -79,7 +79,7 @@ When I'm not programming, you'll find me at the gym 4x/week, watching anime, or 
 
 ## 📊 GitHub Activity
 
-![Sam's GitHub Stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi) ![Top Languages](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
+![Sam's GitHub Stats](https://github-readme-stats-olive-kappa-31.vercel.app/api?username=fuzzykala&show_icons=true&theme=holi&count_private=true&include_all_commits=true) ![Top Languages](https://github-readme-stats-olive-kappa-31.vercel.app/api/top-langs/?username=fuzzykala&layout=compact&theme=holi)
 
 ---
 
